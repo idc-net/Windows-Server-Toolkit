@@ -1,8 +1,8 @@
 # 🖥️ Windows Server Toolkit
 
 > 专为 **Windows Server** 设计的 PowerShell 工具集，涵盖 RDP 端口管理与系统更新管控，让服务器更稳定、更安全。
-> 
-> 💡 idc.net 用户提示： 如果您是 idc.net 的用户，无需自行操作，请直接登录控制台提交工单，我们的技术团队将协助您完成配置。
+
+💡 idc.net 用户提示： 如果您是 idc.net 的用户，无需自行操作，请直接登录控制台提交工单，我们的技术团队将协助您完成配置。
 
 **维护方：** [idc.net](http://idc.net) &nbsp;|&nbsp; **GitHub：** [github.com/idc-net](https://github.com/idc-net/) &nbsp;|&nbsp; **协议：** MIT
 
