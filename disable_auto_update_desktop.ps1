@@ -123,7 +123,6 @@ Write-Host ""
 Write-Host "  提示：如需手动更新，请打开「设置 → Windows 更新 → 检查更新」" -ForegroundColor DarkCyan
 Write-Host "  建议每月固定选一天低峰期手动执行更新。" -ForegroundColor DarkCyan
 Write-Host ""
-Write-Host "  Visit us : http://idc.net" -ForegroundColor DarkCyan
 Write-Host "  GitHub   : https://github.com/idc-net/" -ForegroundColor DarkCyan
 Write-Host ""
-Write-Log "Script completed successfully. | idc.net | https://github.com/idc-net/"
+Write-Log "Script completed successfully. | https://github.com/idc-net/"
