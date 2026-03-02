@@ -90,7 +90,6 @@ Write-Host ""
 Write-Host "  提示：补丁下载完成后系统会弹窗通知，请选择低峰期手动安装。" -ForegroundColor DarkCyan
 Write-Host "  建议每月至少安装一次安全更新，避免漏洞暴露风险。" -ForegroundColor DarkCyan
 Write-Host ""
-Write-Host "  Visit us : http://idc.net" -ForegroundColor DarkCyan
 Write-Host "  GitHub   : https://github.com/idc-net/" -ForegroundColor DarkCyan
 Write-Host ""
-Write-Log "Script completed successfully. | idc.net | https://github.com/idc-net/"
+Write-Log "Script completed successfully. | https://github.com/idc-net/"
