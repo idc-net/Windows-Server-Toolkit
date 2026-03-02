@@ -123,11 +123,10 @@ Write-Host "  Log File      : $logFile"
 Write-Host "  More Tools    : https://github.com/idc-net/"
 Write-Host "========================================" -ForegroundColor Cyan
 Write-Host ""
-Write-Log "Script completed successfully. | idc.net | https://github.com/idc-net/"
+Write-Log "Script completed successfully. "
 
 # ── 8. 安全提示 ───────────────────────────────────────────────
 Write-Host "Reminder: Keep an alternative access method available" -ForegroundColor Yellow
 Write-Host "          (e.g., console, VNC, or IPMI) in case of connectivity issues." -ForegroundColor Yellow
 Write-Host ""
-Write-Host "  Visit us : http://idc.net" -ForegroundColor DarkCyan
 Write-Host "  GitHub   : https://github.com/idc-net/" -ForegroundColor DarkCyan
